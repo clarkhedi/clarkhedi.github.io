@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我中意你23332</title>
+  
+  <subtitle>Tomorrow comes never.</subtitle>
+  <link href="http://clarkhedi.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://clarkhedi.github.io/"/>
+  <updated>2022-11-18T06:12:23.780Z</updated>
+  <id>http://clarkhedi.github.io/</id>
+  
+  <author>
+    <name>贺同学</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Start</title>
+    <link href="http://clarkhedi.github.io/2022/11/18/hexo-start/"/>
+    <id>http://clarkhedi.github.io/2022/11/18/hexo-start/</id>
+    <published>2022-11-18T06:12:23.780Z</published>
+    <updated>2022-11-18T06:12:23.780Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo学习" scheme="http://clarkhedi.github.io/categories/Hexo%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Hexo" scheme="http://clarkhedi.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年，教程 | 个性化定制你的 GitHub 主页</title>
+    <link href="http://clarkhedi.github.io/2021/06/16/ge-xing-hua-ding-zhi-ni-de-github-zhu-ye/"/>
+    <id>http://clarkhedi.github.io/2021/06/16/ge-xing-hua-ding-zhi-ni-de-github-zhu-ye/</id>
+    <published>2021-06-16T20:09:55.000Z</published>
+    <updated>2022-11-18T06:12:24.176Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="GitHub学习" scheme="http://clarkhedi.github.io/categories/GitHub%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="GitHub" scheme="http://clarkhedi.github.io/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>优美的Sublime Text</title>
+    <link href="http://clarkhedi.github.io/2021/06/07/you-mei-de-sublime-text/"/>
+    <id>http://clarkhedi.github.io/2021/06/07/you-mei-de-sublime-text/</id>
+    <published>2021-06-07T22:41:55.000Z</published>
+    <updated>2022-11-18T06:12:24.176Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Sublime Text 是一个轻量、简洁、高效、跨平台的&lt;strong&gt;编辑器&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&quot;Sublime-的下载与安装&quot;&gt;&lt;a href=&quot;#Sublime-的下载与安装&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="杂项" scheme="http://clarkhedi.github.io/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+    <category term="Python" scheme="http://clarkhedi.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyQt5学习笔记（一）</title>
+    <link href="http://clarkhedi.github.io/2021/05/08/pyqt5-xue-xi-bi-ji-yi/"/>
+    <id>http://clarkhedi.github.io/2021/05/08/pyqt5-xue-xi-bi-ji-yi/</id>
+    <published>2021-05-08T19:22:56.000Z</published>
+    <updated>2022-11-18T06:12:23.880Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近几天新入坑了python的GUI设计，回想一下我为什么会入门这个？？？好像是在知乎上看到&lt;a href=&quot;https://www.zhihu.com/question/20799742&quot;&gt;你都用 Python</summary>
+        
+      
+    
+    
+    
+    <category term="Python学习笔记" scheme="http://clarkhedi.github.io/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PyQt5学习笔记" scheme="http://clarkhedi.github.io/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/PyQt5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="PyQt5" scheme="http://clarkhedi.github.io/tags/PyQt5/"/>
+    
+    <category term="GUI" scheme="http://clarkhedi.github.io/tags/GUI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kaiming He初始化的学习</title>
+    <link href="http://clarkhedi.github.io/2021/04/17/kaiming-he-chu-shi-hua-de-xue-xi/"/>
+    <id>http://clarkhedi.github.io/2021/04/17/kaiming-he-chu-shi-hua-de-xue-xi/</id>
+    <published>2021-04-17T20:35:30.000Z</published>
+    <updated>2022-11-18T06:12:23.816Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;在CNN的训练中，权重初始化是一个比较关键的点。好的权重初始化可以让网络的训练过程更加稳定和高效。本文为大家介绍了kaiming初始化以及详细的推导过程，希望可以让大家更好的理解CNN初始化。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以下文</summary>
+        
+      
+    
+    
+    
+    <category term="计算机视觉" scheme="http://clarkhedi.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+    
+    <category term="论文学习笔记" scheme="http://clarkhedi.github.io/categories/%E8%AE%BA%E6%96%87%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文学习" scheme="http://clarkhedi.github.io/tags/%E8%AE%BA%E6%96%87%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>autograd与逻辑回归</title>
+    <link href="http://clarkhedi.github.io/2021/04/05/autograd-yu-luo-ji-hui-gui/"/>
+    <id>http://clarkhedi.github.io/2021/04/05/autograd-yu-luo-ji-hui-gui/</id>
+    <published>2021-04-05T19:52:09.000Z</published>
+    <updated>2022-11-18T06:12:24.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;autograd-与逻辑回归&quot;&gt;&lt;a href=&quot;#autograd-与逻辑回归&quot; class=&quot;headerlink&quot; title=&quot;autograd 与逻辑回归&quot;&gt;&lt;/a&gt;autograd 与逻辑回归&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Pytorch学习笔记" scheme="http://clarkhedi.github.io/categories/Pytorch%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Pytorch" scheme="http://clarkhedi.github.io/tags/Pytorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算图与动态图机制</title>
+    <link href="http://clarkhedi.github.io/2021/04/05/ji-suan-tu-yu-dong-tai-tu-ji-zhi/"/>
+    <id>http://clarkhedi.github.io/2021/04/05/ji-suan-tu-yu-dong-tai-tu-ji-zhi/</id>
+    <published>2021-04-05T19:34:36.000Z</published>
+    <updated>2022-11-18T06:12:24.384Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;计算图与动态图机制&quot;&gt;&lt;a href=&quot;#计算图与动态图机制&quot; class=&quot;headerlink&quot; title=&quot;计算图与动态图机制&quot;&gt;&lt;/a&gt;计算图与动态图机制&lt;/h2&gt;&lt;h3 id=&quot;1、计算图&quot;&gt;&lt;a href=&quot;#1、计算图&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Pytorch学习笔记" scheme="http://clarkhedi.github.io/categories/Pytorch%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Pytorch" scheme="http://clarkhedi.github.io/tags/Pytorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>张量操作与线性回归</title>
+    <link href="http://clarkhedi.github.io/2021/04/05/zhang-liang-cao-zuo-yu-xian-xing-hui-gui/"/>
+    <id>http://clarkhedi.github.io/2021/04/05/zhang-liang-cao-zuo-yu-xian-xing-hui-gui/</id>
+    <published>2021-04-05T19:28:08.000Z</published>
+    <updated>2022-11-18T06:12:24.296Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;张量操作与线性回归&quot;&gt;&lt;a href=&quot;#张量操作与线性回归&quot; class=&quot;headerlink&quot; title=&quot;张量操作与线性回归&quot;&gt;&lt;/a&gt;张量操作与线性回归&lt;/h2&gt;&lt;h3 id=&quot;1、张量的操作&quot;&gt;&lt;a href=&quot;#1、张量的操作&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Pytorch学习笔记" scheme="http://clarkhedi.github.io/categories/Pytorch%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Pytorch" scheme="http://clarkhedi.github.io/tags/Pytorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tensor（张量）介绍</title>
+    <link href="http://clarkhedi.github.io/2021/04/05/tensor-zhang-liang-jie-shao/"/>
+    <id>http://clarkhedi.github.io/2021/04/05/tensor-zhang-liang-jie-shao/</id>
+    <published>2021-04-05T19:22:48.000Z</published>
+    <updated>2022-11-18T06:12:24.140Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Tensor-张量-介绍&quot;&gt;&lt;a href=&quot;#Tensor-张量-介绍&quot; class=&quot;headerlink&quot; title=&quot;Tensor(张量)介绍&quot;&gt;&lt;/a&gt;Tensor(张量)介绍&lt;/h2&gt;&lt;h3 id=&quot;1、Tensor-的概念&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Pytorch学习笔记" scheme="http://clarkhedi.github.io/categories/Pytorch%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Pytorch" scheme="http://clarkhedi.github.io/tags/Pytorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>triplet-loss学习</title>
+    <link href="http://clarkhedi.github.io/2020/12/13/triplet-loss-xue-xi/"/>
+    <id>http://clarkhedi.github.io/2020/12/13/triplet-loss-xue-xi/</id>
+    <published>2020-12-13T14:59:59.000Z</published>
+    <updated>2022-11-18T06:12:24.176Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一些参考资料：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.jb51.net/article/189556.htm&quot;&gt;torch.max/eq()…&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="深度学习笔记" scheme="http://clarkhedi.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="损失函数" scheme="http://clarkhedi.github.io/tags/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python多线程入门</title>
+    <link href="http://clarkhedi.github.io/2020/11/25/python-duo-xian-cheng-ru-men/"/>
+    <id>http://clarkhedi.github.io/2020/11/25/python-duo-xian-cheng-ru-men/</id>
+    <published>2020-11-25T15:37:56.000Z</published>
+    <updated>2022-11-18T06:12:23.924Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;操作系统的设计&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;可以归结为三点：&lt;/p&gt;
+&lt;p&gt;（1）以多进程形式，允许多个任务同时运行；&lt;/p&gt;
+&lt;p&gt;（2）以多线程形式，允许单个任务分成不同的部分运行；&lt;/p&gt;
+&lt;p&gt;（3）提供协调机制，一方面防止进程之间和线程之间产生</summary>
+        
+      
+    
+    
+    
+    <category term="Python学习笔记" scheme="http://clarkhedi.github.io/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="http://clarkhedi.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github Actions全自动博客部署</title>
+    <link href="http://clarkhedi.github.io/2020/11/19/github-actions-quan-zi-dong-bo-ke-bu-shu/"/>
+    <id>http://clarkhedi.github.io/2020/11/19/github-actions-quan-zi-dong-bo-ke-bu-shu/</id>
+    <published>2020-11-19T16:14:12.000Z</published>
+    <updated>2022-11-18T06:12:23.780Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;假如现在有两个仓库，一个是存放网页静态文件的&lt;code&gt;github.io&lt;/code&gt;仓库,为公有仓库；一个是存放博客源码的&lt;code&gt;hexo&lt;/code&gt;仓库，因为里面的配置涉及到私人的密码信息，因此设置为私有仓库。&lt;/p&gt;
+&lt;p&gt;那么现在博客部署分为两步：见&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo学习" scheme="http://clarkhedi.github.io/categories/Hexo%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Hexo" scheme="http://clarkhedi.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Hexo，换电脑也能更新博客</title>
+    <link href="http://clarkhedi.github.io/2020/11/19/shi-yong-hexo-huan-dian-nao-ye-neng-geng-xin-bo-ke/"/>
+    <id>http://clarkhedi.github.io/2020/11/19/shi-yong-hexo-huan-dian-nao-ye-neng-geng-xin-bo-ke/</id>
+    <published>2020-11-19T10:11:12.000Z</published>
+    <updated>2022-11-18T06:12:24.180Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;解决方法：使用git分支进行多终端工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在这里我们就可以利用git的分支系统进行多终端工作了，这样每次打开不一样的电脑，只需要进行简单的配置和在github上把文件同步下来，就可以无缝操作了。&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo学习" scheme="http://clarkhedi.github.io/categories/Hexo%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Hexo" scheme="http://clarkhedi.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>损失函数的解释</title>
+    <link href="http://clarkhedi.github.io/2020/10/27/sun-shi-han-shu-de-jie-shi/"/>
+    <id>http://clarkhedi.github.io/2020/10/27/sun-shi-han-shu-de-jie-shi/</id>
+    <published>2020-10-27T15:53:18.000Z</published>
+    <updated>2022-11-18T06:12:24.320Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在任何深度学习项目中，配置损失函数都是确保模型以预期方式工作的最重要步骤之一。 损失函数可以为神经网络提供很多实用的灵活性，它将定义网络输出与网络其余部分的连接方式。&lt;/p&gt;
+&lt;p&gt;神经网络可以执行多种任务，从预测连续值（如每月支出）到对离散类别（如猫和狗）进行分类。</summary>
+        
+      
+    
+    
+    
+    <category term="深度学习笔记" scheme="http://clarkhedi.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="损失函数" scheme="http://clarkhedi.github.io/tags/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CLBP学习(下)</title>
+    <link href="http://clarkhedi.github.io/2020/10/04/clbp-xue-xi-xia/"/>
+    <id>http://clarkhedi.github.io/2020/10/04/clbp-xue-xi-xia/</id>
+    <published>2020-10-04T11:11:24.000Z</published>
+    <updated>2022-11-18T06:12:23.736Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;阐述一下CLBP实现纹理分类，与传统LBP不同，CLBP具有3个描述子。分别是&lt;code&gt;CLBP-C、CLBP-S、CLBP-M&lt;/code&gt;。&lt;/p&gt;
+&lt;h4 id=&quot;1-确定中心像素的邻域坐标&quot;&gt;&lt;a href=&quot;#1-确定中心像素的邻域坐标&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="分类技术" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="LBP学习" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/LBP%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="CLBP" scheme="http://clarkhedi.github.io/tags/CLBP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CLBP学习(上)</title>
+    <link href="http://clarkhedi.github.io/2020/10/03/clbp-xue-xi-shang/"/>
+    <id>http://clarkhedi.github.io/2020/10/03/clbp-xue-xi-shang/</id>
+    <published>2020-10-03T10:23:21.000Z</published>
+    <updated>2022-11-18T06:12:23.716Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;纹理分类&lt;/strong&gt;是一个很老的topic，但是一些纹理分类的方法为以后的图片分类奠定了基础。&lt;br&gt;首先定义一下纹理图片，他是一个随一下变量变化的函数：纹理表面材质，反射率，光照，照相机和他的角度。&lt;br&gt;现在纹理分类比较流行的有两种方法：一个是全局</summary>
+        
+      
+    
+    
+    
+    <category term="分类技术" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="LBP学习" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/LBP%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="CLBP" scheme="http://clarkhedi.github.io/tags/CLBP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>局部二值模式(LBP)</title>
+    <link href="http://clarkhedi.github.io/2020/09/28/ju-bu-er-zhi-mo-shi-lbp/"/>
+    <id>http://clarkhedi.github.io/2020/09/28/ju-bu-er-zhi-mo-shi-lbp/</id>
+    <published>2020-09-28T10:01:00.000Z</published>
+    <updated>2022-11-18T06:12:24.256Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;局部二值模式&lt;/strong&gt;（&lt;code&gt;英文&lt;/code&gt;：&lt;strong&gt;Local binary patterns&lt;/strong&gt;，&lt;code&gt;缩写&lt;/code&gt;：&lt;strong&gt;LBP&lt;/strong&gt;）是&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="分类技术" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="LBP学习" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/LBP%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="LBP" scheme="http://clarkhedi.github.io/tags/LBP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SVM多分类的两种方式</title>
+    <link href="http://clarkhedi.github.io/2020/07/07/svm-duo-fen-lei-de-liang-chong-fang-shi/"/>
+    <id>http://clarkhedi.github.io/2020/07/07/svm-duo-fen-lei-de-liang-chong-fang-shi/</id>
+    <published>2020-07-07T14:36:14.000Z</published>
+    <updated>2022-11-18T06:12:24.092Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;SVM本身是一个二值分类器，SVM算法最初是为二值分类问题设计的，当处理多类问题时，就需要构造合适的多类分类器。 目前，构造SVM多类分类器的方法主要有两类，直接法、间接法。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;来源：CSDN博主「xfChen2」的原创（&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="分类技术" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="SVM" scheme="http://clarkhedi.github.io/tags/SVM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SVM入门（十）将SVM用于多类分类</title>
+    <link href="http://clarkhedi.github.io/2020/07/06/svm-ru-men-shi-jiang-svm-yong-yu-duo-lei-fen-lei/"/>
+    <id>http://clarkhedi.github.io/2020/07/06/svm-ru-men-shi-jiang-svm-yong-yu-duo-lei-fen-lei/</id>
+    <published>2020-07-06T23:42:43.000Z</published>
+    <updated>2022-11-18T06:12:24.060Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;从</summary>
+        
+      
+    
+    
+    
+    <category term="分类技术" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="SVM八股" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/SVM%E5%85%AB%E8%82%A1/"/>
+    
+    
+    <category term="SVM" scheme="http://clarkhedi.github.io/tags/SVM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SVM入门（九）松弛变量（续）</title>
+    <link href="http://clarkhedi.github.io/2020/07/06/svm-ru-men-jiu-song-chi-bian-liang-xu/"/>
+    <id>http://clarkhedi.github.io/2020/07/06/svm-ru-men-jiu-song-chi-bian-liang-xu/</id>
+    <published>2020-07-06T23:12:23.000Z</published>
+    <updated>2022-11-18T06:12:23.976Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;接下来要说的东西其实不是松弛变量本身，但由于是为了使用松弛变量才引入的，因此放在这里也算合适，那就是惩罚因子C。回头看一眼引入了松弛变量以后的优化问题：&lt;/p&gt;
+&lt;p&gt;注意其中C的位置，也可以回想一下C所起的作用（表征你有多么重视离群点，C越大越重视，越不想丢掉它们）。这个</summary>
+        
+      
+    
+    
+    
+    <category term="分类技术" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="SVM八股" scheme="http://clarkhedi.github.io/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/SVM%E5%85%AB%E8%82%A1/"/>
+    
+    
+    <category term="SVM" scheme="http://clarkhedi.github.io/tags/SVM/"/>
+    
+  </entry>
+  
+</feed>

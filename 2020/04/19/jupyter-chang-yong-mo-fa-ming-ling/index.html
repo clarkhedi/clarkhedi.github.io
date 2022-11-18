@@ -1,0 +1,126 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description"><link rel="stylesheet" type="text/css" href="//fonts.loli.net/css?family=Source+Code+Pro"><link rel="stylesheet" type="text/css" href="/css/style.css?v=2.0.5"><link rel="stylesheet" type="text/css" href="/css/highlight.css?v=2.0.5"><link rel="Shortcut Icon" href="/favicon.ico"><link rel="bookmark" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><link rel="alternate" type="application/atom+xml" href="/atom.xml"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css?v=2.0.5"><title>Jupyter 常用魔法命令 | 我中意你23332</title><meta name="generator" content="Hexo 5.2.0"><link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">Jupyter 常用魔法命令</h1><a id="logo" href="/.">我中意你23332</a><p class="description">Tomorrow comes never.</p></div><div id="nav-menu"><a href="/." class="current"><i class="fa fa-home"> 首页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于</i></a><a href="/atom.xml"><i class="fa fa-rss"> 订阅</i></a></div><div id="search-form"><div id="result-mask" class="hide"></div><label><input id="search-key" type="text" autocomplete="off" placeholder="搜索"></label><div id="result-wrap" class="hide"><div id="search-result"></div></div><div class="hide"><template id="search-tpl"><div class="item"><a href="/{path}" title="{title}"><div class="title">{title}</div><div class="time">{date}</div><div class="tags">{tags}</div></a></div></template></div></div></div><div id="layout" class="layout-g"><div class="layout-l"><div class="content_container"><div class="post"><h1 class="post-title">Jupyter 常用魔法命令</h1><div class="post-meta"><a href="/2020/04/19/jupyter-chang-yong-mo-fa-ming-ling/#comments" class="comment-count"></a><p><span class="date">Apr 19, 2020</span><span><a href="/categories/Jupyter%E8%AF%AD%E6%B3%95/" class="category">Jupyter语法</a><a href="/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" class="category">Python学习笔记</a></span><span><i id="busuanzi_container_page_pv"><i id="busuanzi_value_page_pv"></i><i>点击</i></i></span></p></div><div class="post-content"><h3 id="Jupyter-Lab简介"><a href="#Jupyter-Lab简介" class="headerlink" title="Jupyter Lab简介"></a>Jupyter Lab简介</h3><p>Jupyter Lab 是功能强大的Python交互IDE，深受数据分析师和算法工程师的热爱。</p>
+<p>Jupyter Lab自带的一些常用Command 可以让它变得更加得心应手。</p>
+<h3 id="一、Command介绍"><a href="#一、Command介绍" class="headerlink" title="一、Command介绍"></a>一、Command介绍</h3><p>Jupyter Lab 有两种键盘输入模式:</p>
+<ul>
+<li><code>命令模式 (按键 Esc 开启) </code></li>
+<li><code>编辑模式(按键 Enter 切换)</code></li>
+</ul>
+<ol>
+<li>编辑模式截图：</li>
+</ol>
+<p><img src="https://imgkr.cn-bj.ufileos.com/d7122004-11e9-48af-aeae-7848760519b0.png"></p>
+<ol start="2">
+<li>按Esc开启命令模式截图：</li>
+</ol>
+<p><img src="https://imgkr.cn-bj.ufileos.com/49ae9e27-5d76-4622-86a1-c2ea0ce98ee9.png"></p>
+<ol start="3">
+<li>按Enter键切换成编辑模式截图：</li>
+</ol>
+<p><img src="https://imgkr.cn-bj.ufileos.com/69705a18-8052-4309-95d0-37eda2d8aaea.png"></p>
+<h4 id="命令模式下-按键-Esc-开启-："><a href="#命令模式下-按键-Esc-开启-：" class="headerlink" title="命令模式下(按键 Esc 开启)："></a>命令模式下(按键 Esc 开启)：</h4><p>Y : 单元转入代码状态</p>
+<p>R : 单元转入raw状态</p>
+<p>M :单元转入markdown状态</p>
+<ul>
+<li>即在markdown状态下：<ul>
+<li>1 : 设定 1 级标题</li>
+<li>2 : 设定 2 级标题</li>
+<li>3 : 设定 3 级标题</li>
+<li>4 : 设定 4 级标题</li>
+<li>5 : 设定 5 级标题</li>
+<li>6 : 设定 6 级标题</li>
+</ul>
+</li>
+</ul>
+<p>Up/K : 选中上方单元</p>
+<p>Down/J : 选中下方单元</p>
+<p>Shift+K : 一直按会扩大选中上方单元与自身单元</p>
+<p>Shift+J : 一直按会扩大选中下方单元与自身单元</p>
+<p>A : 在上方插入新单元</p>
+<p>B : 在下方插入新单元</p>
+<p>X : 剪切选中的单元</p>
+<p>C : 复制选中的单元</p>
+<p>V : 粘贴到下方单元</p>
+<p>Z : 恢复删除的最后一个单元(撤销)</p>
+<p>D,D : 删除选中的单元</p>
+<p>Shift+M : 合并选中的单元</p>
+<p>Ctrl+S/S : 文件存盘</p>
+<p>L : 转换行号</p>
+<p>O : 转换输出</p>
+<p>Shift+O : 转换输出滚动</p>
+<p>Esc/Q : 关闭页面</p>
+<p>H : 显示快捷键帮助</p>
+<p>Shift : 忽略</p>
+<p>Shift+Space : 向上滚动</p>
+<p>Space : 向下滚动</p>
+<h4 id="编辑模式下-按键-Enter-切换-："><a href="#编辑模式下-按键-Enter-切换-：" class="headerlink" title="编辑模式下(按键 Enter 切换)："></a>编辑模式下(按键 Enter 切换)：</h4><p>Tab : 代码补全或缩进</p>
+<p>Shift+Tab : 提示</p>
+<p>Shift+Enter : 运行本单元，选中下一单元</p>
+<p>Alt+Enter : 运行本单元，在下面插入一单元</p>
+<p>Ctrl+Enter : 运行本单元</p>
+<p>Ctrl+] : 缩进</p>
+<p>Ctrl+[ : 解除缩进</p>
+<p>Ctrl+A : 全选</p>
+<p>Ctrl+Z : 复原</p>
+<p>Ctrl+Shift+Z/Ctrl+Y : 再做</p>
+<p>Ctrl+Up/Ctrl+Home : 跳到单元开头</p>
+<p>Ctrl+Down/Ctrl+End : 跳到单元末尾</p>
+<p>Ctrl+Left : 跳到左边一个字首</p>
+<p>Ctrl+Right : 跳到右边一个字首</p>
+<p>Ctrl+Shift+- : 分割单元</p>
+<p>Ctrl+S : 文件存盘</p>
+<p>Up : 光标上移或转入上一单元</p>
+<p>Down :光标下移或转入下一单元</p>
+<ul>
+<li>使用<code>Tab</code>键补全代码功能截图如下：</li>
+</ul>
+<p><img src="https://imgkr.cn-bj.ufileos.com/43e30519-d493-4559-8ea6-dea77fc9f81f.png" alt="补全代码功能"></p>
+<ul>
+<li>使用<code>shift+tab</code>键显示函数使用提示如下：</li>
+</ul>
+<p><img src="https://imgkr.cn-bj.ufileos.com/d21698f3-b43d-4106-a1ee-70578ced2ba3.png" alt="显示函数使用提示"></p>
+<h3 id="二、NoteBook-常用魔法命令"><a href="#二、NoteBook-常用魔法命令" class="headerlink" title="二、NoteBook 常用魔法命令"></a>二、NoteBook 常用魔法命令</h3><h4 id="1、查看当前工作目录"><a href="#1、查看当前工作目录" class="headerlink" title="1、查看当前工作目录"></a>1、查看当前工作目录</h4><p><img src="https://imgkr.cn-bj.ufileos.com/7c33b3a6-ee3a-4aad-bd2c-ab95c8663a03.png" alt="查看当前工作目录"></p>
+<h4 id="2、更改工作目录"><a href="#2、更改工作目录" class="headerlink" title="2、更改工作目录"></a>2、更改工作目录</h4><p><img src="https://imgkr.cn-bj.ufileos.com/e5ffdf1e-610d-41b3-bf42-ad1f2197a83f.png" alt="更改工作目录"></p>
+<h4 id="3、查看目录文件列表"><a href="#3、查看目录文件列表" class="headerlink" title="3、查看目录文件列表"></a>3、查看目录文件列表</h4><p><img src="https://imgkr.cn-bj.ufileos.com/9f30e65f-0656-407d-9129-33e2ea6a78cc.png" alt="查看目录文件列表"></p>
+<h4 id="4、写入文件"><a href="#4、写入文件" class="headerlink" title="4、写入文件"></a>4、写入文件</h4><p><img src="https://imgkr.cn-bj.ufileos.com/06c12010-3c7f-437b-a959-f0177b925182.png" alt="写入文件"></p>
+<h4 id="5、执行脚本文件"><a href="#5、执行脚本文件" class="headerlink" title="5、执行脚本文件"></a>5、执行脚本文件</h4><p><img src="https://imgkr.cn-bj.ufileos.com/80d6e6c2-4b9b-4f11-9a26-dc44a9b777d0.png" alt="执行脚本文件"></p>
+<h4 id="6、复制文档内容"><a href="#6、复制文档内容" class="headerlink" title="6、复制文档内容"></a>6、复制文档内容</h4><ul>
+<li>没执行该语句前：</li>
+</ul>
+<p><img src="https://imgkr.cn-bj.ufileos.com/304ec591-f8ea-4154-8e9b-407b51b2345e.png"></p>
+<ul>
+<li>执行语句后：</li>
+</ul>
+<p><img src="https://imgkr.cn-bj.ufileos.com/69870e19-a677-4e38-b2f4-18c136bb4b5c.png"></p>
+<h4 id="7、查看当前变量"><a href="#7、查看当前变量" class="headerlink" title="7、查看当前变量"></a>7、查看当前变量</h4><p><img src="https://imgkr.cn-bj.ufileos.com/6c68a7ce-36e6-4306-93ac-2f3bc256fc41.png" alt="查看当前变量"></p>
+<h4 id="8、清除变量"><a href="#8、清除变量" class="headerlink" title="8、清除变量"></a>8、清除变量</h4><ul>
+<li>清除全部变量：</li>
+</ul>
+<p><img src="https://imgkr.cn-bj.ufileos.com/e061bb73-e4b5-4496-b0fd-8ab338cda627.png"></p>
+<ul>
+<li>清除某个变量：</li>
+</ul>
+<p><img src="https://imgkr.cn-bj.ufileos.com/a487db95-c8e8-4e15-b728-6f39710ed230.png"></p>
+<h4 id="9、测算运行时间"><a href="#9、测算运行时间" class="headerlink" title="9、测算运行时间"></a>9、测算运行时间</h4><ul>
+<li>使用magic command测算：</li>
+</ul>
+<p><img src="https://imgkr.cn-bj.ufileos.com/b64aa440-e7f3-4e8e-b6b4-b4ddd899a998.png"></p>
+<ul>
+<li>使用python代码测算：</li>
+</ul>
+<p><img src="https://imgkr.cn-bj.ufileos.com/6dbe50cf-f72c-4388-b757-be837440051d.png"></p>
+<hr>
+<img src="/2020/04/19/jupyter-chang-yong-mo-fa-ming-ling/hi.png" class="">
+
+</div><div class="post-copyright"><blockquote><p>原文作者: 贺同学</p><p>原文链接: <a href="http://clarkhedi.github.io/2020/04/19/jupyter-chang-yong-mo-fa-ming-ling/">http://clarkhedi.github.io/2020/04/19/jupyter-chang-yong-mo-fa-ming-ling/</a></p><p>版权声明: 转载请注明出处(必须保留原文作者署名原文链接)</p></blockquote></div><div class="tags"><a href="/tags/Python/">Python</a></div><div class="post-share"><div class="social-share"><span>分享到:</span></div><div class="bdsharebuttonbox"><span style="float:left;line-height: 28px;height: 28px;font-size:16px;font-weight:blod">分享到:</span><a href="#" data-cmd="more" class="bds_more"></a><a href="#" data-cmd="mshare" title="分享到一键分享" class="bds_mshare"></a><a href="#" data-cmd="fbook" title="分享到Facebook" class="bds_fbook"></a><a href="#" data-cmd="twi" title="分享到Twitter" class="bds_twi"></a><a href="#" data-cmd="linkedin" title="分享到linkedin" class="bds_linkedin"></a><a href="#" data-cmd="youdao" title="分享到有道云笔记" class="bds_youdao"></a><a href="#" data-cmd="evernotecn" title="分享到印象笔记" class="bds_evernotecn"></a><a href="#" data-cmd="weixin" title="分享到微信" class="bds_weixin"></a><a href="#" data-cmd="qzone" title="分享到QQ空间" class="bds_qzone"></a><a href="#" data-cmd="tsina" title="分享到新浪微博" class="bds_tsina"></a></div></div><div class="post-nav"><a href="/2020/04/27/shen-du-xue-xi-chang-yong-python-ku-jie-shao/" class="pre">深度学习常用Python库介绍</a><a href="/2020/04/14/ru-he-xi-tong-de-xue-xi-python/" class="next">如何系统的学习Python</a></div><div id="comments"><div id="container"><script type="text/javascript" src="https://unpkg.com/gitalk/dist/gitalk.min.js?v=2.0.5"></script><script type="text/javascript" src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js?v=2.0.5"></script><script>var gitalk = new Gitalk({
+  clientID: 'd6d4fb51a5284e4df5fd',
+  clientSecret: '80ba8b4586bfce6df672e814df089b31e49a5549',
+  repo: 'Gitalk',
+  owner: 'clarkhedi',
+  admin: ['clarkhedi'],
+  id: md5(window.location.pathname),
+  distractionFreeMode: false,
+  language: 'zh-CN',
+  pagerDirection: 'last'
+})
+gitalk.render('container')</script></div></div></div></div></div><div class="layout-r"><div id="sidebar"><div class="search-pla"></div><div id="toc" class="widget"><div class="widget-title"><i class="fa fa-fei">文章目录</i></div><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#Jupyter-Lab%E7%AE%80%E4%BB%8B"><span class="toc-text">Jupyter Lab简介</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%80%E3%80%81Command%E4%BB%8B%E7%BB%8D"><span class="toc-text">一、Command介绍</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F%E4%B8%8B-%E6%8C%89%E9%94%AE-Esc-%E5%BC%80%E5%90%AF-%EF%BC%9A"><span class="toc-text">命令模式下(按键 Esc 开启)：</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%BC%96%E8%BE%91%E6%A8%A1%E5%BC%8F%E4%B8%8B-%E6%8C%89%E9%94%AE-Enter-%E5%88%87%E6%8D%A2-%EF%BC%9A"><span class="toc-text">编辑模式下(按键 Enter 切换)：</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BA%8C%E3%80%81NoteBook-%E5%B8%B8%E7%94%A8%E9%AD%94%E6%B3%95%E5%91%BD%E4%BB%A4"><span class="toc-text">二、NoteBook 常用魔法命令</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#1%E3%80%81%E6%9F%A5%E7%9C%8B%E5%BD%93%E5%89%8D%E5%B7%A5%E4%BD%9C%E7%9B%AE%E5%BD%95"><span class="toc-text">1、查看当前工作目录</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#2%E3%80%81%E6%9B%B4%E6%94%B9%E5%B7%A5%E4%BD%9C%E7%9B%AE%E5%BD%95"><span class="toc-text">2、更改工作目录</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#3%E3%80%81%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6%E5%88%97%E8%A1%A8"><span class="toc-text">3、查看目录文件列表</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#4%E3%80%81%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6"><span class="toc-text">4、写入文件</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#5%E3%80%81%E6%89%A7%E8%A1%8C%E8%84%9A%E6%9C%AC%E6%96%87%E4%BB%B6"><span class="toc-text">5、执行脚本文件</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#6%E3%80%81%E5%A4%8D%E5%88%B6%E6%96%87%E6%A1%A3%E5%86%85%E5%AE%B9"><span class="toc-text">6、复制文档内容</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#7%E3%80%81%E6%9F%A5%E7%9C%8B%E5%BD%93%E5%89%8D%E5%8F%98%E9%87%8F"><span class="toc-text">7、查看当前变量</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#8%E3%80%81%E6%B8%85%E9%99%A4%E5%8F%98%E9%87%8F"><span class="toc-text">8、清除变量</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#9%E3%80%81%E6%B5%8B%E7%AE%97%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4"><span class="toc-text">9、测算运行时间</span></a></li></ol></li></ol></div><div class="widget"><div class="widget-title"><i class="fa fa-xie"> 最新文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2022/11/18/hexo-start/">Hexo Start</a></li><li class="post-list-item"><a class="post-list-link" href="/2021/06/16/ge-xing-hua-ding-zhi-ni-de-github-zhu-ye/">2021年，教程 | 个性化定制你的 GitHub 主页</a></li><li class="post-list-item"><a class="post-list-link" href="/2021/06/07/you-mei-de-sublime-text/">优美的Sublime Text</a></li><li class="post-list-item"><a class="post-list-link" href="/2021/05/08/pyqt5-xue-xi-bi-ji-yi/">PyQt5学习笔记（一）</a></li><li class="post-list-item"><a class="post-list-link" href="/2021/04/17/kaiming-he-chu-shi-hua-de-xue-xi/">Kaiming He初始化的学习</a></li><li class="post-list-item"><a class="post-list-link" href="/2021/04/05/autograd-yu-luo-ji-hui-gui/">autograd与逻辑回归</a></li><li class="post-list-item"><a class="post-list-link" href="/2021/04/05/ji-suan-tu-yu-dong-tai-tu-ji-zhi/">计算图与动态图机制</a></li><li class="post-list-item"><a class="post-list-link" href="/2021/04/05/zhang-liang-cao-zuo-yu-xian-xing-hui-gui/">张量操作与线性回归</a></li><li class="post-list-item"><a class="post-list-link" href="/2021/04/05/tensor-zhang-liang-jie-shao/">Tensor（张量）介绍</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/12/13/triplet-loss-xue-xi/">triplet-loss学习</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-gui"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/GitHub%E5%AD%A6%E4%B9%A0/">GitHub学习</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Hexo%E5%AD%A6%E4%B9%A0/">Hexo学习</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Jupyter%E8%AF%AD%E6%B3%95/">Jupyter语法</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux%E5%AD%A6%E4%B9%A0/">Linux学习</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/OpenCV-Python%E6%89%8B%E8%AE%B0/">OpenCV-Python手记</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">Python学习笔记</a><span class="category-list-count">8</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/PyQt5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">PyQt5学习笔记</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Pytorch%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">Pytorch学习笔记</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/">分类技术</a><span class="category-list-count">14</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/LBP%E5%AD%A6%E4%B9%A0/">LBP学习</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/SVM%E5%85%AB%E8%82%A1/">SVM八股</a><span class="category-list-count">10</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">图像处理学习笔记</a><span class="category-list-count">7</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E8%BD%A6%E7%89%8C%E8%AF%86%E5%88%AB/">车牌识别</a><span class="category-list-count">7</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%AE%9E%E9%AA%8C%E6%A5%BC%E5%AD%A6%E4%B9%A0/">实验楼学习</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%9D%82%E9%A1%B9/">杂项</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">深度学习笔记</a><span class="category-list-count">7</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E8%B8%A9%E5%9D%91/">环境搭建踩坑</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/">英语学习</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</a><span class="category-list-count">9</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%BA%E6%96%87%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">论文学习笔记</a><span class="category-list-count">1</span></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-biao"> 标签</i></div><div class="tagcloud"><a href="/tags/SVM/" style="font-size: 15px;">SVM</a> <a href="/tags/CLBP/" style="font-size: 15px;">CLBP</a> <a href="/tags/Hexo/" style="font-size: 15px;">Hexo</a> <a href="/tags/Python/" style="font-size: 15px;">Python</a> <a href="/tags/%E8%AE%BA%E6%96%87%E5%AD%A6%E4%B9%A0/" style="font-size: 15px;">论文学习</a> <a href="/tags/vim/" style="font-size: 15px;">vim</a> <a href="/tags/OpenCV/" style="font-size: 15px;">OpenCV</a> <a href="/tags/PyQt5/" style="font-size: 15px;">PyQt5</a> <a href="/tags/GUI/" style="font-size: 15px;">GUI</a> <a href="/tags/%E8%AE%B0%E5%8D%95%E8%AF%8D/" style="font-size: 15px;">记单词</a> <a href="/tags/Pytorch/" style="font-size: 15px;">Pytorch</a> <a href="/tags/TensorFlow/" style="font-size: 15px;">TensorFlow</a> <a href="/tags/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/" style="font-size: 15px;">损失函数</a> <a href="/tags/GitHub/" style="font-size: 15px;">GitHub</a> <a href="/tags/Resume/" style="font-size: 15px;">Resume</a> <a href="/tags/LBP/" style="font-size: 15px;">LBP</a> <a href="/tags/LPR/" style="font-size: 15px;">LPR</a> <a href="/tags/Numpy/" style="font-size: 15px;">Numpy</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-archive"> 归档</i></div><ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/">2022</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/">2021</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/">2020</a><span class="archive-list-count">36</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/">2019</a><span class="archive-list-count">5</span></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-you"> 友情链接</i></div><ul></ul><a href="https://github.com/chaooo/hexo-theme-BlueLake" title="BlueLake主题" target="_blank">BlueLake主题</a><ul></ul><a href="https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247484443&amp;idx=1&amp;sn=7110e42ef9e95a8c16064dde5b897960&amp;chksm=e870d556df075c4053a90d207c078e5fe965b5f9004de7f34dee09fccf1a37977aa3860b3a96&amp;mpshare=1&amp;scene=23&amp;srcid=0428XfRkvl0HsaHMU71k04dq#rd" title="重磅|完备的AI学习路线,最详细的资源整理！" target="_blank">重磅|完备的AI学习路线,最详细的资源整理！</a><ul></ul><a href="https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&amp;mid=2247489096&amp;idx=1&amp;sn=ca2e1d72c9decd021c0365cc9e93a539&amp;chksm=ec5ec935db2940237482c5581b7a45f2bd50b138efa6488ed9b942c182486a4e74131e9af523&amp;mpshare=1&amp;scene=23&amp;srcid=#rd" title="推荐|机器学习入门方法和资料合集" target="_blank">推荐|机器学习入门方法和资料合集</a><ul></ul><a href="https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&amp;mid=100000497&amp;idx=1&amp;sn=96cc795f1c22f7da2f3260d4ea364ff3&amp;chksm=7d8784134af00d05e41da36475bca417851535ed9710c7bd44ae7365cf40857015d922671c95&amp;mpshare=1&amp;scene=23&amp;srcid=04138MekLgFi3vNAz2E2rTrv#rd" title="良心推荐：机器学习入门资料汇总及学习建议（2018版）" target="_blank">良心推荐：机器学习入门资料汇总及学习建议（2018版）</a><ul></ul><a href="https://mp.weixin.qq.com/s?__biz=MzA3NDIyMjM1NA==&amp;mid=2649032678&amp;idx=1&amp;sn=7ce30241f24dae790f7361173132ee04&amp;chksm=8712b99bb065308d6626ac71d358d386199f5fdcc0d20f48b9ff7f7f84f32892325075413d78&amp;mpshare=1&amp;scene=1&amp;srcid=1213VnRvWgKRhAswA6qj9C6U&amp;sharer_sharetime=1607823235596&amp;sharer_shareid=6f3d2b6e1888cc6674af1cb9d8f856b5&amp;key=94e16379e8fc498f20603adf1c7c1474460f32c861df423924a01860bf66b23e3b54ec715f59513ed57f7be44b91602324165303caa8015279359147bf99dc0ac5c9482bbf323df6415707db1df1dbb44795972834805221b6810c0783bc61213b424afc1f9c747d8eddfe17782e3165ddfff5144eff7867ea82ee34ab2e6e44&amp;ascene=1&amp;uin=MzMyMzAzNzE5OA%3D%3D&amp;devicetype=Windows+10+x64&amp;version=6300002f&amp;lang=en&amp;exportkey=A%2Fn4vOWzACQbiXdS3ts1%2BmU%3D&amp;pass_ticket=X0sXcXVfthe9ne%2BkdsNidLJDaUos8pPBg0qSPgQJE8kY3CQmybx%2FB2TVL1w9Glu6&amp;wx_header=0" title="深度学习CV算法工程师从入门到初级面试" target="_blank">深度学习CV算法工程师从入门到初级面试</a></div></div></div></div><a id="totop" href="#top"></a><div id="footer"><div class="footer-info"><p><a href="/baidusitemap.xml">网站地图</a> |  <a href="/atom.xml">订阅本站</a> |  <a href="/about/">联系博主</a></p><p>本站总访问量：<i id="busuanzi_container_site_pv"><i id="busuanzi_value_site_pv"></i></i>次，本站总访客数:<i id="busuanzi_container_site_uv"><i id="busuanzi_value_site_uv"></i></i>人</p><p><span> Copyright &copy;<a href="/." rel="nofollow">贺同学.</a></span><span> Theme by<a rel="nofollow" target="_blank" href="https://github.com/chaooo/hexo-theme-BlueLake"> BlueLake.</a></span><span> Count by<a target="_blank" rel="noopener" href="http://busuanzi.ibruce.info/"> busuanzi.</a></span><span> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a></span></p></div></div></div><script src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async></script><script type="text/javascript" src="/js/search.json.js?v=2.0.5"></script><div id="fullscreen-img" class="hide"><span class="close"></span></div><script type="text/javascript" src="/js/imgview.js?v=2.0.5" async></script><script type="text/javascript" src="/js/toctotop.js?v=2.0.5" async></script><link rel="stylesheet" type="text/css" href="/share/css/share.css"><script type="text/javascript" src="/share/js/social-share.js" charset="utf-8"></script><script type="text/javascript" src="/share/js/qrcode.js" charset="utf-8"></script><script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":["mshare","weixin","tsina","qzone","linkedin","fbook","twi","print","renren","sqq","evernotecn","bdysc","tqq","tqf","bdxc","kaixin001","tieba","douban","bdhome","thx","ibaidu","meilishuo","mogujie","diandian","huaban","duitang","hx","fx","youdao","sdo","qingbiji","people","xinhua","mail","isohu","yaolan","wealink","ty","iguba","h163","copy"],"bdPic":"","bdStyle":"1","bdSize":"16"},"share":{},"image":{"viewList":["tsina","qzone","weixin","fbook","twi","linkedin","youdao","evernotecn","mshare"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["tsina","qzone","weixin","fbook","twi","linkedin","youdao","evernotecn","mshare"]}};with(document)0[(getElementsByTagName('head')[0]||head).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script></body></html>
